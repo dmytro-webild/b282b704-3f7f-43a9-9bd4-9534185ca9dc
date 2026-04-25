@@ -125,7 +125,7 @@ export default function LandingPage() {
         {
           id: "f5",          title: "Fresh Toppings",          author: "Chef Mimi",          description: "Crisp vegetables and quality meats.",          tags: [
             "Healthy",            "Premium"],
-          imageSrc: "http://img.b2bpic.net/free-photo/noodles-wooden-cutting-board-with-tomato-lime-spring-onion-chili-baby-corn_1150-27156.jpg"},
+          imageSrc: "http://img.b2bpic.net/noodles-wooden-cutting-board-with-tomato-lime-spring-onion-chili-baby-corn_1150-27156.jpg"},
       ]}
       title="Why You'll Love Us"
       description="Fresh ingredients, kawaii vibes, and the best ramen broth in the city."
